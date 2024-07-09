@@ -1,5 +1,5 @@
 # Awesome-AI-Resources-List
-Here you get to see free resources to learn AI - Research Papers, AI Tools, Learning Materials across the world
+Here you get to see free resources to learn AI 
 
 1. Machine Learning
 2. Math for Machine Learning
