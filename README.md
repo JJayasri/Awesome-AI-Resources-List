@@ -11,6 +11,9 @@ Here you get to see free resources to learn AI
 8. Audio Processing
 9. ML System Design
 10. MLOPS & LLMOPS
-    
-Youtube |   Online resources  |  Courses 
-------------------------------------------
+
+## Machine Learning
+
+S.No | Youtube |   Online resources  |  Courses 
+------------------------------------------------
+1 |  (100 days of ML)[https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH] 
