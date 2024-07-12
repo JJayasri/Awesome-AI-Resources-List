@@ -16,9 +16,9 @@ Here you get to see free resources to learn AI
 
 S.No | Youtube |   Online resources  |  Courses 
 ------------------------------------------------
-1 | [Linear Regression] (https://www.youtube.com/playlist?list=PLKnIA16_Rmva-wY_HBh1gTH32ocu2SoTr)
+1 | [Linear Regression](https://www.youtube.com/playlist?list=PLKnIA16_Rmva-wY_HBh1gTH32ocu2SoTr)
 --------------------------------------------------------------------------------------------------
-2 | [Linear Regression] (https://www.youtube.com/watch?v=8jazNUpO3lQ)
+2 | [Linear Regression](https://www.youtube.com/watch?v=8jazNUpO3lQ)
 --------------------------------------------------------------------------------------------------
 3 |  [100 days of ML](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH) | 
 -----------------------------------------------------------------------------------------------------
