@@ -12,3 +12,5 @@ Here you get to see free resources to learn AI
 9. ML System Design
 10. MLOPS & LLMOPS
     
+Youtube |   Online resources  |  Courses 
+------------------------------------------
