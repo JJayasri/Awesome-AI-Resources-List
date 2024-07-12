@@ -23,14 +23,14 @@ Here, you will find a curated collection of free resources to help you learn var
 
 | 🎥 YouTube Resources                                                                                                  | 🎓 Online Courses                                                                                         | 📄 Articles |
 |--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-| [Making Friends with Machine Learning (Applied AI) by Cassie Kozyrkov](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpB_2ei8-5eWU31EZ6uSj9_s) | [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course/) | - |
-| [Introduction to Machine Learning for Coders](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96) | [Andrew Ng’s Machine Learning Course](https://www.coursera.org/specializations/machine-learning-introduction#courses) | - |
+| [Making Friends with ML by Cassie](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpB_2ei8-5eWU31EZ6uSj9_s) | [ML Crash Course by Google](https://developers.google.com/machine-learning/crash-course/) | - |
+| [Intro to ML for Coders](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96) | [Andrew Ng’s ML Course](https://www.coursera.org/specializations/machine-learning-introduction#courses) | - |
 
 ## Math for Machine Learning
 
 | 🎥 YouTube Resources                                                                                                                                       | 🎓 Online Courses                                                                                                  | 📄 Articles |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-| [Math for Machine Learning by Weights & Biases](https://www.youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg)                                | [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) | - |
+| [Math for ML by W&B](https://www.youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg)                                | [Math for ML and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) | - |
 | [Mathematics for Machine Learning - Linear Algebra - by Imperial College London](https://www.youtube.com/watch?v=k0zKoTvngUY&list=PLbBL73wBB18MPkKkBr1ux2cZPcSIVJZq2&index=1&t=898s) | - | - |
 | [Mathematics for Machine Learning - Multivariate Calculus - by Imperial College London](https://www.youtube.com/watch?v=QpwTEsO51tU&list=PLbBL73wBB18MPkKkBr1ux2cZPcSIVJZq2&index=2) | - | - |
 
