@@ -69,7 +69,7 @@ Here, you will find a curated collection of free resources to help you learn var
 | 🎥 YouTube Resources | 🎓 Online Courses | 📄 Articles |
 |-------------------|----------------|----------|
 | - | - | [LLM by Cohere](https://docs.cohere.com/docs/llmu) |
-| - | - | [Mastering LLM Techniques: Inference Optimization]((https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)) |
+| - | - | [Mastering LLM Techniques: Inference Optimization](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/) |
 
 ## Audio Processing
 
@@ -82,7 +82,7 @@ Here, you will find a curated collection of free resources to help you learn var
 | 🎥 YouTube Resources | 🎓 Online Courses | 📄 Articles |
 |-------------------|----------------|----------|
 | - | [ML system design-Educative](https://www.educative.io/courses/machine-learning-system-design) | - |
-| - | [ML system design-Made with ML]([https://www.educative.io/courses/machine-learning-system-design](https://madewithml.com/courses/mlops/systems-design/)) | - |
+| - | [ML system design-Made with ML](https://madewithml.com/courses/mlops/systems-design/) | - |
 
 ## MLOps & LLMOps
 
