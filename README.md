@@ -45,7 +45,7 @@ Here, you will find a curated collection of free resources to help you learn var
 
 | 🎥 YouTube Resources                                                                                                                                       | 🎓 Online Courses                                                                                                 | 📄 Articles |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-| [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)                                                | [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning?msockid=2d76103e124b6d60353a048b13e66c97) | ["Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.deeplearningbook.org/) |
+| [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)                                                | [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning?msockid=2d76103e124b6d60353a048b13e66c97) | [Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org/) |
 | - | [fast.ai's Practical Deep Learning for Coders](https://course.fast.ai/) | - |
 | - | [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/) | - |
 | - | [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html) | - |
