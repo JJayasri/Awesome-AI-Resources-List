@@ -31,15 +31,15 @@ Here, you will find a curated collection of free resources to help you learn var
 | 🎥 YouTube Resources                                                                                                                                       | 🎓 Online Courses                                                                                                  | 📄 Articles |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
 | [Math for ML by W&B](https://www.youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg)                                | [Math for ML and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) | - |
-| [Mathematics for Machine Learning - Linear Algebra - by Imperial College London](https://www.youtube.com/watch?v=k0zKoTvngUY&list=PLbBL73wBB18MPkKkBr1ux2cZPcSIVJZq2&index=1&t=898s) | - | - |
-| [Mathematics for Machine Learning - Multivariate Calculus - by Imperial College London](https://www.youtube.com/watch?v=QpwTEsO51tU&list=PLbBL73wBB18MPkKkBr1ux2cZPcSIVJZq2&index=2) | - | - |
+| [Math for ML - Linear Algebra - Imperial College London](https://www.youtube.com/watch?v=k0zKoTvngUY&list=PLbBL73wBB18MPkKkBr1ux2cZPcSIVJZq2&index=1&t=898s) | - | - |
+| [Math for ML - Multivariate Calculus - Imperial College London](https://www.youtube.com/watch?v=QpwTEsO51tU&list=PLbBL73wBB18MPkKkBr1ux2cZPcSIVJZq2&index=2) | - | - |
 
 ## Probability & Statistics
 
 | 🎥 YouTube Resources                                                                                                 | 🎓 Online Courses                                                                                                  | 📄 Articles |
 |-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-| [Statistics Fundamentals by StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) | [Probability & Statistics for Machine Learning & Data Science](https://www.coursera.org/learn/machine-learning-probability-and-statistics?msockid=2d76103e124b6d60353a048b13e66c97) | - |
-| - | [Khan Academy Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) | - |
+| [Stats Fundamentals by StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) | [Prob & Stats for Machine Learning & Data Science](https://www.coursera.org/learn/machine-learning-probability-and-statistics?msockid=2d76103e124b6d60353a048b13e66c97) | - |
+| - | [Khan Academy Stats & Prob](https://www.khanacademy.org/math/statistics-probability) | - |
 
 ## Deep Learning
 
@@ -55,20 +55,21 @@ Here, you will find a curated collection of free resources to help you learn var
 | 🎥 YouTube Resources | 🎓 Online Courses                                                                                          | 📄 Articles |
 |-------------------|---------------------------------------------------------------------------------------------------------|----------|
 | - | [Deep Learning for Computer Vision - Coursera](https://www.coursera.org/learn/introduction-deep-learning-computer-vision?specialization=deep-learning-computer-vision) | - |
-| - | [OpenCV Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)                      | - |
+| - | [OpenCV Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)                      | - |
 
 ## Natural Language Processing
 
 | 🎥 YouTube Resources                                                                                                                                       | 🎓 Online Courses                                                                                                  | 📄 Articles |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-| [Natural Language Processing at UT Austin, 2023-2024 version](https://www.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7)                  | [NLP Specialization by deeplearning.ai](https://www.coursera.org/specializations/natural-language-processing?msockid=2d76103e124b6d60353a048b13e66c97#courses) | - |
-| [Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)              | - | - |
+| [NLP](https://www.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7)                  | [NLP Specialization by deeplearning.ai](https://www.coursera.org/specializations/natural-language-processing?msockid=2d76103e124b6d60353a048b13e66c97#courses) | - |
+| [Stanford CS224N: NLP](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)              | - | - |
 
 ## Large Language Models & Generative AI
 
 | 🎥 YouTube Resources | 🎓 Online Courses | 📄 Articles |
 |-------------------|----------------|----------|
-| - | - | [LLM by Cohere!](https://docs.cohere.com/docs/llmu) |
+| - | - | [LLM by Cohere](https://docs.cohere.com/docs/llmu) |
+| - | - | [Mastering LLM Techniques: Inference Optimization]((https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)) |
 
 ## Audio Processing
 
@@ -80,11 +81,12 @@ Here, you will find a curated collection of free resources to help you learn var
 
 | 🎥 YouTube Resources | 🎓 Online Courses | 📄 Articles |
 |-------------------|----------------|----------|
-| - | - | - |
+| - | [ML system design-Educative](https://www.educative.io/courses/machine-learning-system-design) | - |
+| - | [ML system design-Made with ML]([https://www.educative.io/courses/machine-learning-system-design](https://madewithml.com/courses/mlops/systems-design/)) | - |
 
 ## MLOps & LLMOps
 
 | 🎥 YouTube Resources | 🎓 Online Courses | 📄 Articles |
 |-------------------|----------------|----------|
-| - | - | - |
+| - | [Mlops course- Made with ML](https://madewithml.com/courses/mlops/) | [Neptune blog](https://neptune.ai/blog) |
 
